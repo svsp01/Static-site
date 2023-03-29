@@ -5,6 +5,7 @@
 }
 
 .txt{
+    background: #d4a373;
     display: block;
     width: 400px;
     margin-left: auto;
@@ -55,7 +56,7 @@
     display: block;
     width: 200px;
     height: 40px;
-    background-color: rgb(245, 200, 237);
+    background-color: #faedcd;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
